@@ -1,0 +1,11 @@
+PANDUAN SINGKAT DARI IPHONE
+
+A. GitHub: https://github.com/signup
+B. Ekstrak ZIP ini di aplikasi Files.
+C. Buat repo Public bernama ai-shorts-maker-id. Upload SEMUA FILE di dalam folder hasil ekstraksi, bukan ZIP. Commit changes.
+D. Buat API key Gemini: https://aistudio.google.com/apikey. Simpan pribadi, jangan kirim di chat.
+E. Render: https://render.com/ → New + → Web Service → hubungkan GitHub → pilih repo → runtime Docker → Free jika tersedia → Create Web Service.
+F. Render → Environment → Add Environment Variable: Name GEMINI_API_KEY, Value API key Gemini → Save.
+G. Tunggu Live, buka URL Render dan bookmark.
+
+PENTING: Gratis tidak berarti tanpa batas. Coba video kecil terlebih dahulu. Video hasil harus segera diunduh karena penyimpanan lokal server gratis tidak permanen.
